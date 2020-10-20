@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/action_robot"
+            android:checked="true"
+            android:icon="@drawable/android"
+            android:title="機台辨識" />
+
+        <item
+            android:id="@+id/action_local"
+            android:icon="@drawable/android"
+            android:title="歷史資訊" />
+
+    </group>
+
+</menu>

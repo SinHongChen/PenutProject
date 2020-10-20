@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PenutProject</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <string name="MPChart_1">正常</string>
+    <string name="MPChart_2">病害</string>
+    <string name="MPChart_3">蟲害</string>
+</resources>
